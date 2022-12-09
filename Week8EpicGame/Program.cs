@@ -1,4 +1,4 @@
-﻿string filePath = @"/Users/annakozlova/projects/";
+﻿string filePath = @"/Users/.../projects/";
 string heroFile = "heroes.txt";
 string villainFile = "villains.txt";
 
